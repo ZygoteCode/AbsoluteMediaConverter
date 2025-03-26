@@ -7,7 +7,7 @@ public class Program
 {
     public static void Main()
     {
-        Console.Title = "AbsoluteMediaConverter | Made by https://github.com/GabryB03/";
+        Console.Title = "AbsoluteMediaConverter | Made by https://github.com/ZygoteCode/";
 
         if (!Directory.Exists("inputs"))
         {
